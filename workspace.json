@@ -1,0 +1,8 @@
+{
+  "version": 2,
+  "projects": {
+    "nos": "apps/nos",
+    "nos-e2e": "apps/nos-e2e",
+    "nos_api": "apps/nos-api"
+  }
+}

@@ -1,7 +1,7 @@
 {
-  "root": "apps/core-data-types",
+  "root": "apps/nos-api",
   "projectType": "application",
-  "sourceRoot": "apps/core-data-types/src",
+  "sourceRoot": "apps/nos-api/src",
   "targets": {
     "build": {
       "executor": "@nxrs/cargo:build",

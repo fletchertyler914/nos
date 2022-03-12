@@ -1,5 +1,5 @@
 [package]
-name = "core_data_types"
+name = "nos_api"
 version = "0.1.0"
 edition = "2021"
 
