@@ -1,0 +1,8 @@
+{
+  "version": 2,
+  "projects": {
+    "core_data_types": "apps/core-data-types",
+    "my-app": "apps/my-app",
+    "my-app-e2e": "apps/my-app-e2e"
+  }
+}

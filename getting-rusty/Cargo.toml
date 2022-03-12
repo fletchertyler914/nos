@@ -1,0 +1,5 @@
+[workspace]
+members = [
+    "apps/my-rust-app",
+    "apps/core-data-types"
+]
